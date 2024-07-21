@@ -1,3 +1,2 @@
 # task2
-Shoppeal task 2
-First internship 
+Shoppeal task 2 
